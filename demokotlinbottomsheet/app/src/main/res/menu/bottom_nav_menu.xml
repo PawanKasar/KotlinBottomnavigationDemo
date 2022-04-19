@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:title="@string/fragment_dashboard"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/lead_generation"
+        android:title="@string/fragment_lead_generation"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/lead_list"
+        android:title="@string/fragment_lead_list"
+        android:icon="@drawable/ic_launcher_background"/>
+</menu>
